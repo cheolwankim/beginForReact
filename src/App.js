@@ -5,7 +5,7 @@ import Detail from "./routes/Detail";
 
 const App = createBrowserRouter([
   {
-    path: "/", //Route(url)
+    path: "/beginForReact", //Route(url)
     element: <Home />, // render element
   },
   {
